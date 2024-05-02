@@ -1,0 +1,22 @@
+word_list = [
+    "Apple",
+    "Banana",
+    "Orange",
+    "Grape",
+    "Strawberry",
+    "Watermelon",
+    "Pineapple",
+    "Mango",
+    "Cherry",
+    "Peach",
+    "Pear",
+    "Kiwi",
+    "Plum",
+    "Blueberry",
+    "Raspberry",
+    "Lemon",
+    "Lime",
+    "Coconut",
+    "Pomegranate",
+    "Avocado"
+]
